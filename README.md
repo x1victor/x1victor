@@ -1,4 +1,11 @@
 ### Victor 19 anos Universitario 👋
+</br>
+<div >
+  <a href="https://github.com/x1victor">
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=x1victor&&show_icons=true&theme=aura&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
+  </a>
+</div>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
